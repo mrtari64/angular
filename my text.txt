@@ -1,4 +1,8 @@
 C:\Users\m.taribakhsh\Desktop\ng-book4\sample--ng4
+<<<<<<< HEAD
 
 
 my branch 22
+=======
+sdfdfsdfsdf
+>>>>>>> new_branch_for_test
